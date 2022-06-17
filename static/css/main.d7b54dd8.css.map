@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d7b54dd8.css","mappings":"AAAA,OACI,eACJ,CACA,KACI,aACJ,CAEA,aACI,kBACJ","sources":["style.css"],"sourcesContent":[".title{\n    font-weight: 800;\n}\nspan{\n    display:block;\n}\n\n.description{\n    margin-bottom:30px;\n}"],"names":[],"sourceRoot":""}
